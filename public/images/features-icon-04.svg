@@ -1,0 +1,26 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="28" cy="28" r="28" fill="#6366F1"/>
+<mask id="mask0_5_2" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="56" height="56">
+<circle cx="28" cy="28" r="28" fill="white"/>
+</mask>
+<g mask="url(#mask0_5_2)">
+<g filter="url(#filter0_f_5_2)">
+<circle cx="28" cy="28" r="12" fill="#312E81" fill-opacity="0.8"/>
+</g>
+</g>
+<g clip-path="url(#clip0_5_2)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.1777 16.063L28.914 24.7738L34.6901 28.0276L15.9081 39.2952L25.9027 28.6437L19.668 25.1316L36.1777 16.063Z" fill="#D3F4FF"/>
+<path d="M34.6901 28.0276L15.9081 39.2953L18.0378 40.4951L36.8198 29.2273L34.6901 28.0276Z" fill="#2441BA"/>
+<path d="M36.1778 16.063L28.914 24.7737L31.0438 25.9735L38.3075 17.2627L36.1778 16.063Z" fill="#91D7F0"/>
+</g>
+<defs>
+<filter id="filter0_f_5_2" x="-5.74625" y="-5.74625" width="67.4925" height="67.4925" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10.8731" result="effect1_foregroundBlur_5_2"/>
+</filter>
+<clipPath id="clip0_5_2">
+<rect width="25" height="31" fill="white" transform="translate(24.2166 8.86026) rotate(29.3934)"/>
+</clipPath>
+</defs>
+</svg>

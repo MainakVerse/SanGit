@@ -31,6 +31,7 @@ export default function Hero() {
                 Hire The Best
               </span>
               
+              
             </h1>
             <h2 className='text-5xl font-extrabold text-white'>
               <Typewriter
